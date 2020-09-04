@@ -17,4 +17,5 @@ int main(int arc, char* args[]){
         window = SDL_CreateWindow("Pop Up SDL Program", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, SCREEN_WIDTH, SCREEN_HEIGHT, SDL_WINDOW_SHOWN);
         SDL_Delay(5000);
     }
+    return 0;
 }

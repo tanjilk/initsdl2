@@ -1,3 +1,6 @@
 # depslib dependency file v1.0
-1599218210 source:/home/tanjil/Documents/Programming/c++ projects/myprojects/PopWindow/main.cpp
+1599218862 source:/home/tanjil/Documents/Programming/c++ projects/myprojects/PopWindow/main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<stdio.h>
 
